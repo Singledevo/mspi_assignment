@@ -2,7 +2,7 @@
  * i2c.c
  *
  *  Created on: Apr 2, 2024
- *      Author: vai
+ *      Author: SHASHANK
  */
 
 #include "i2c.h"
